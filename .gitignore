@@ -1,0 +1,5 @@
+*.npy
+sentiment_model/
+train/
+val/
+*.zip
